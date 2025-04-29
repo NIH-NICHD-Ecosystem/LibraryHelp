@@ -8,7 +8,7 @@ This page contains information about the NICHD Ecosystem Use Case Library (or â€
 - [Library Documentation Structure](#library-documentation-structure) which details the main components of user needs documentation in the Library.
 - [Glossary](#glossary) which provides a list of terms and definitions for Library documents.
 
-##### Need additional assistance? Contact [ecosystem-help@ll.mit.edu](mailto:ecosystem-help@ll.mit.edu?subject=Ecosystem_Library)
+##### Need additional assistance? Contact [NICHDecosystem@nih.gov](mailto:NICHDecosystem@nih.gov?subject=Ecosystem_Library)
 
 </br>  
   
