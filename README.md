@@ -70,7 +70,7 @@ The Use Cases Diagram example describes the scope of the Data Repository Finder 
   <tr>
     <td width="400"><img src="./assets/LibraryStructure-EffortExample-19Jan24.PNG" alt="Landing page for the Data Repository Finder web application.">
     </td>
-    <td width="400" align="left">Efforts are initatied to fulfill requirements from <i>User Stories</i>, and formally described by <i>Use Cases</i>.<br><br> Efforts may be new software applications, new tools in existing software applications, or other improvements to data sharing processes across the ecosystem.
+    <td width="400" align="left">Efforts are initatied to fulfill requirements from <i>User Stories</i>, and formally described by <i>Use Cases</i>.<br><br> A project or initiative that aims to address, in whole or in part, community needs described in User Stories.
     </td>
   </tr>
 </table> 
