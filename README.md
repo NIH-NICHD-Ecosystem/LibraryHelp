@@ -46,6 +46,18 @@ This page contains information about the NICHD Ecosystem Use Case Library (or â€
 
 </br>
 
+
+### Efforts
+
+  <table>
+  <tr>
+    <td width="400"><img src="./assets/LibraryStructure-EffortExample-19Jan24.PNG" alt="Landing page for the Data Repository Finder web application.">
+    </td>
+    <td width="400" align="left">Efforts are initatied to fulfill requirements from <i>User Stories</i>, and formally described by <i>Use Cases</i>.<br><br> Efforts may be new software applications, new tools in existing software applications, or other improvements to data sharing processes across the ecosystem.
+    </td>
+  </tr>
+</table> 
+
 ### Use Cases
 
   <table>
@@ -64,17 +76,6 @@ The Use Cases Diagram example describes the scope of the Data Repository Finder 
 
 </br>
 
-### Efforts
-
-  <table>
-  <tr>
-    <td width="400"><img src="./assets/LibraryStructure-EffortExample-19Jan24.PNG" alt="Landing page for the Data Repository Finder web application.">
-    </td>
-    <td width="400" align="left">Efforts are initatied to fulfill requirements from <i>User Stories</i>, and formally described by <i>Use Cases</i>.<br><br> Efforts may be new software applications, new tools in existing software applications, or other improvements to data sharing processes across the ecosystem.
-    </td>
-  </tr>
-</table> 
-
 
 <br/>
 </div/
@@ -91,7 +92,7 @@ Terms below apply to the NICHD Use Case Library and associated documentation.
 | :------------ | :------------- | :------------- | 
 |Actor | A person, organization, or external system that needs to interact with a given system. Actor requirements are detailed as use cases in the Use Case Diagram. <br><br>In Library documents, Actors can map to multiple users from User Stories, as they represent users who may have different titles within an organization but have similar goals or requirements within an Effort.  | http://agilemodeling.com/style/useCaseDiagram.htm*|
 |Current Workflow | This workflow type details the current process which the new feature or function is intended to replace. Library documents do not require a specific structure to describe current processes; documenters may want to consider using a narrative example, structured text description, a diagram, or a combination of descriptors. <br><br>Though it is good practice to document the current state, including a Current Workflow is optional for Library documentation. | Workflow description: https://www.ncbi.nlm.nih.gov/books/NBK2638/*
-|Effort | Each Effort addresses a group of  related Use Cases and results in new ecosystem functionality that fulfills User Story requirements.  | |
+|Effort | A project or initiative that aims to address, in whole or in part, community needs described in User Stories. Technical Efforts may be formally described by Use Cases.
 |Intended Workflow | This workflow type breaks a given use case down into actor starting and end points, actions, and decision points to describe actions as well as relationships between actions. The intended workflow describes the future state using a diagram detailing the order of actions and calling out actor decision points.<br><br>Library documents require a list of preconditions for the workflow, and a description of the actions in the workflow to accompany the diagram. <br><br>Intended Workflow is required for each use case in Library documents. | Workflow description: https://www.ncbi.nlm.nih.gov/books/NBK2638/* <br><br>Example workflow diagram: <br>https://support.microsoft.com/en-us/office/create-a-basic-flowchart-in-visio-e207d975-4a51-4bfa-a356-eeec314bd276*|
 |Related Users | In Library documents, refers to a number of Users from the ecosystem list that are collectively represented by an Actor in the UML Use Case and Use Case Story. |  |
 |Sequence Diagram | In UML, this diagram models the flow of logic within a system in a visual manner, enabling both documentation and validation of that logic. Sequence diagrams are commonly used for both analysis and design purposes. <br><br>Library documentation requires a sequence diagram for each use case, and a description of the sequenced actions to accompany the diagram.. | http://agilemodeling.com/artifacts/sequenceDiagram.htm*|
