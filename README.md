@@ -58,6 +58,8 @@ This page contains information about the NICHD Ecosystem Use Case Library (or â€
   </tr>
 </table> 
 
+</br> 
+
 ### Use Cases
 
   <table>
