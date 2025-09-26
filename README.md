@@ -88,7 +88,6 @@ The Use Cases Diagram example describes the scope of the Data Repository Finder 
 
 Terms below apply to the NICHD Use Case Library and associated documentation.
 
-*↗️ External link, NIH is not responsible for content of external sites*
 
 |Term | Definition | Source/Links|
 | :------------ | :------------- | :------------- | 
